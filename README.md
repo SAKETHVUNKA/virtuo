@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/64589324/230759574-c836a18f-fa0d-49d3-
 
 ## 👥 Contributors
 
-- [@SAKETHVUNKA](https://github.com/SAKETHVUNKA)
+- [SAKETHVUNKA](https://github.com/SAKETHVUNKA)
 - [Nandish NS](https://github.com/nandishns)
 - [Manas](https://github.com/Manas-Gowda)
 - [Space Gamer](https://github.com/Space-Gamer)
