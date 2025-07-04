@@ -1,42 +1,66 @@
-# VIRTUO
+# 🚀 VIRTUO
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/92267208/230757395-ee45f0ba-9e81-4c87-b5a8-50b509ad65cb.png" width="200" height="150">
+  <img src="https://user-images.githubusercontent.com/92267208/230757395-ee45f0ba-9e81-4c87-b5a8-50b509ad65cb.png" width="250">
 </p>
 
+Virtuo is a Flutter-based educational platform built during **Dotslash 4.0 Hackathon**, designed to make STEM learning fun, engaging, and highly interactive using Virtual Reality (VR) and 3D models.
 
+🎯 [**Download APK**](https://drive.google.com/file/d/1dloYvn7G9jcshMvH9MWI69rAc3j7XBEh/view?usp=sharing)
 
-This repository consists the source code for Flutter application developed by our team as a part of **dotslash 4.0** hackathon.
+---
 
-[Click Here](https://drive.google.com/file/d/1dloYvn7G9jcshMvH9MWI69rAc3j7XBEh/view?usp=sharing) to the download the APK file.
+## 💡 Problem Statement
 
-## Problem Statement
-Traditional teaching methods often rely on lectures, textbooks, and static images, which may not fully capture the dynamic and interactive nature of science. As a result, students may become disinterested or discouraged, leading to lower academic achievement and reduced interest in pursuing STEM careers. Therefore, there is a need for innovative educational tools and technologies that can improve learning productivity and engagement in STEM subjects, particularly in the areas of virtual reality and interactive experiments. Aditionally, we should also minimize distraction caused by mobile phones among students while studying and help them maintain focus and concentration to improve their academic performance.
+Traditional teaching methods rely heavily on lectures, textbooks, and static images, which often fail to engage students fully. As a result, many students lose interest in STEM subjects, leading to lower performance and reduced motivation to pursue STEM careers.
 
-## Our Solution
-* Our platform will make use of the latest technologies like Virtual Reality (VR), 3D modelling of objects and Flutter (Android,iOS and Web) for effective learning with fun.
-* Virtual Reality Labs: The platform will provide a virtual reality laboratory simulation environment for students to perform experiments in a safe and controlled environment. The VR labs will provide interactive experiments, such as flame test of metal salts, measuring the properties of gases, determining the density of liquids, and testing the effects of various substances on plant growth.
-* VR based Interactive Lessons : The platform will offer interactive STEM lessons. The lessons will be designed to engage students and provide them with a hands-on learning experience. After completing each concept, students will be able to view augmented objects related to the concept in the VR space and interact with them. Additionally, students can take gamified quizzes, which will earn them streaks and rewards to increase their competitiveness.
+Additionally, distractions from mobile devices during study sessions further impact concentration and productivity.
 
+---
 
-### Demonstartion of 3D models in our application
+## 🌟 Our Solution
 
-* DNA Model </br>
-<!-- ![DNA MODEL](https://user-images.githubusercontent.com/92267208/230756760-ed17be56-498b-467c-a583-af47e8d2d44c.mp4) -->
+✅ **Virtual Reality Labs:**  
+Safe, controlled virtual labs for performing experiments like flame tests, gas property measurements, liquid density determination, and plant growth studies.
+
+✅ **VR-based Interactive Lessons:**  
+Gamified STEM lessons with augmented 3D objects that students can explore after each concept. Quizzes with streaks and rewards help maintain excitement and competitiveness.
+
+✅ **Distraction Minimization:**  
+By making learning more immersive and interactive, the app helps students stay focused and engaged.
+
+---
+
+## 🧬 3D Model Demonstrations
+
+### DNA Model
+
 ![APP DEMO](https://user-images.githubusercontent.com/83031327/230760322-4b5352d2-8544-41d5-b314-a0407d4a9140.gif)
 
-<!-- https://user-images.githubusercontent.com/92267208/230756760-ed17be56-498b-467c-a583-af47e8d2d44c.mp4 -->
+### Heart Model
 
-* Heart Model </br>
 ![HEART MODEL](https://user-images.githubusercontent.com/83031327/230737971-bf4d0046-1730-4ff3-a591-4cb8eb8e12b0.gif)
 
-### Demonstartion of VR Lab Science Experiments
+---
+
+## 🔬 VR Lab Science Experiment Demo
 
 https://user-images.githubusercontent.com/64589324/230759574-c836a18f-fa0d-49d3-a062-c3ed74f6ae9d.mp4
 
-### Tech Stack
-* Unity Engine for VR , 3D models
-* Flutter for more scalability and better user experience, UI/UX
-* APIs 
-* Web Scraping for availing the contents from various Govt. TextBooks like NCERT
+---
 
+## 🛠️ Tech Stack
+
+- **Unity Engine** — For VR and 3D modeling
+- **Flutter** — Cross-platform mobile & web frontend
+- **APIs** — Data integration and features
+- **Web Scraping** — To source content from official textbooks (e.g., NCERT)
+
+---
+
+## 👥 Contributors
+
+- [@SAKETHVUNKA](https://github.com/SAKETHVUNKA)
+- [Nandish NS](https://github.com/nandishns)
+- [Manas](https://github.com/Manas-Gowda)
+- [Space Gamer](https://github.com/Space-Gamer)
